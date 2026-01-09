@@ -1,0 +1,6 @@
+Codename: stable
+Suite: stable
+Components: main
+Architectures: amd64 source
+SignWith: default
+Description: Local APT repository for ipconfig
